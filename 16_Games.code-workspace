@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../../../../../../../usr/share/doc/Box2D-devel"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.html": "html",
+			"Makefile": "makefile",
+			"cmath": "cpp"
+		}
+	}
+}
